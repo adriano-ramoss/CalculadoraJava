@@ -1,1 +1,1 @@
-# Calculadora Simples em Java Usando Programação Orientada Objeto.
+# Calculadora Simples em Java Usando POO.
